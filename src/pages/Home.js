@@ -10,7 +10,6 @@ function Home() {
             <h1 style={{fontWeight:"bold"}}> Food Corner</h1>
             <p> INDIAN FOOD AT A CLICK</p>
             <Link to="/menu"><button > ORDER NOW</button></Link>
-            
         </div>
        
     </div>
